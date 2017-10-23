@@ -1,1 +1,1 @@
-This is a name address storage applicationg
+This is a name address storage application.
